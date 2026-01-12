@@ -1,0 +1,6 @@
+one=int(input("Enter the first number: "))
+two=int(input("Enter the second number: "))
+three=int(input("Enter the third number: "))
+print("The sum of 3 numbers is:", one+two+three)
+print("The product of 3 numbers is:", one*two*three)
+print("The average of 3 numbers is:", (one+two+three)/3)
